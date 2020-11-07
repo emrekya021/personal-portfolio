@@ -282,3 +282,8 @@ input:checked + .slider::before {
 #mail:hover {
   color: var(--on-background);
 }
+
+a.projelerim {
+  text-decoration: none;
+  margin-right: 2px;
+}
