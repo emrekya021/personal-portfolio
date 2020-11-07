@@ -271,3 +271,14 @@ input:checked + .slider::before {
 #nav a:hover {
   border: none;
 }
+
+#mail {
+  font-size: 150px;
+  margin-right: 50px;
+  cursor: pointer;
+  color: var(--primary-color);
+}
+
+#mail:hover {
+  color: var(--on-background);
+}
